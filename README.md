@@ -1,6 +1,6 @@
 ## Hello Everyone!😊
 My name is **Rushil Dharwal**,currently pursuing **B.E. Computer Science and M.Sc. Economics in Birla Institute of Technology and Science, Pilani, Rajasthan**, graduating in **2028**.<br>
-I’m a **newcomer to GitHub**, interested in **C++ development**, and looking for guidance and resources to kick-start my journey.<br>
+I’m a **newcomer to GitHub**, interested in **app development, game development and cybersecurity**, and looking for guidance and resources to kick-start my journey.<br>
 I am passionate to engage in work in the community.<br>
 Reach me at: rudh.works@gmail.com
 <!--
